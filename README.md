@@ -1,2 +1,2 @@
-# Compiti_vacanze
-una repository per i compiti delle vacanze di 4a
+# TPSIT_21_22
+una repository per gli esercizi di tpsit dell'anno scolastico 2021 - 2022
