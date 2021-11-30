@@ -1,0 +1,15 @@
+eatch client is identified by a nickname known by the server
+
+udp server
+
+the server is identified with his ip adress
+
+on the serrver there will be a dictionary that assosiate the nickname to the ip adress
+
+the dictionary is complited using a hello exchange (f"Nickname"{nick_name})
+
+msg.encode()
+
+after that the server will send an OK
+
+the message on the chat part are sent to the server then (f"Sender:{nick_sender},Recever:{nick_reciver},{messsage})
